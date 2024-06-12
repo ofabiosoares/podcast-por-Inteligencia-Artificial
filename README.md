@@ -5,10 +5,10 @@ UtilizeI  uma esteira de prompts para gerar cada etapa do processo criativo.
 
 
 ## 💻 Tecnologias utilizadas no projeto
-[ChatGPT](https://chatgpt.com/)
-[Copilot Designer](https://copilot.microsoft.com/images/create)
-[ElevenLabs](https://elevenlabs.io/)
-[Capcut](https://www.capcut.com/)
+- [ChatGPT](https://chatgpt.com/)
+- [Copilot Designer](https://copilot.microsoft.com/images/create)
+- [ElevenLabs](https://elevenlabs.io/)
+- [Capcut](https://www.capcut.com/)
 
 
 ## ✨ Como foi feito ?
