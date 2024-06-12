@@ -1,2 +1,2 @@
-# podcast-por-Inteligencia-Artificial
+# Podcast-por-Inteligencia-Artificial
 Projeto Podcast Gerado por I.A.s
