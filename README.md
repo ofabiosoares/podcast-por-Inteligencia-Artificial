@@ -12,10 +12,10 @@ UtilizeI  uma esteira de prompts para gerar cada etapa do processo criativo.
 
 
 ## ✨ Como foi feito ?
-Roteiro gerado via chatgpt
-Audio gerado pela elevenLabs
-Copilot Designer Para gerar Capas
-Capcut para tratar aúdio e adicionar sons de fundo
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Copilot Designer Para gerar Capas
+- Capcut para tratar aúdio e adicionar sons de fundo
 
 
 ## 📚 Materiais
