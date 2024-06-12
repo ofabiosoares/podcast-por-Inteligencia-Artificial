@@ -31,9 +31,9 @@ Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para
 🤖 3. Use os prompts de artes no Copilot Designer
 
 
-##👨‍💻 Expert
+## 👨‍💻Expert
 
 Fábio Soares
 
-    [GitHub ]() |  [LinkedIn]()    | 
+    [GitHub ](https://github.com/ofabiosoares) |  [LinkedIn](https://www.linkedin.com/in/fabio-soares-a71338231/)    | 
 
