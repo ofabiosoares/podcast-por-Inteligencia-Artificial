@@ -1,3 +1,7 @@
+
+![tema_podcast](https://github.com/ofabiosoares/podcast-por-Inteligencia-Artificial/assets/147347105/199e95c5-79a6-4e21-91b0-62d969d3205e)
+
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
